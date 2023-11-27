@@ -39,13 +39,13 @@ A combinational circuit is a circuit in which the output depends on the present 
    - Review and fix any issues in your code if necessary.
    - View the RTL diagram.
 
-6.Verification:
+6. Verification:
    - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
 
 ## Program:
-
+![program](https://github.com/GnanendranN/Experiment--02-Implementation-of-combinational-logic/assets/138955207/ea6239f1-d8c1-480e-a966-70362dcad2a2)
 
 ## RTL realization
 ![RTL](https://github.com/GnanendranN/Experiment--02-Implementation-of-combinational-logic/assets/138955207/b024e08a-9c05-4831-beee-976522e24094)
